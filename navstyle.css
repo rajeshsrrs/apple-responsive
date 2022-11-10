@@ -393,7 +393,7 @@ nav .navlistdesktop li a{
     height: 37px;
     background-size: 37px 37px;
     background-repeat: no-repeat;
-    background-image: url(/old/m2chip.png);
+    background-image: url(old/m2chip.png);
     background-position: center;
 }
 .appletvlogo{
@@ -401,7 +401,7 @@ nav .navlistdesktop li a{
     height: 33px;
     background-size: 108px 33px;
     background-repeat: no-repeat;
-    background-image: url(/old/tv4k.png);
+    background-image: url(old/tv4k.png);
     background-position: center;
 }
 .appletv .subhead{
@@ -472,7 +472,7 @@ nav .navlistdesktop li a{
     height: 580px;
     background-size: 1262px 580px;
     background-repeat: no-repeat;
-    background-image: url(/old/tv4klarge.jpg)
+    background-image: url(old/tv4klarge.jpg)
 }
 
 .watchlogo{
@@ -480,7 +480,7 @@ nav .navlistdesktop li a{
     height: 52px;
     background-size: 137px 52px;
     background-repeat: no-repeat;
-    background-image: url(/old/watchlogo.png);
+    background-image: url(old/watchlogo.png);
     background-position: center
 }
 .watch8logo{
@@ -488,7 +488,7 @@ nav .navlistdesktop li a{
     height: 52px;
     background-size: 137px 52px;
     background-repeat: no-repeat;
-    background-image: url(/old/watch8.png);
+    background-image: url(old/watch8.png);
     background-position: center;
 }
 .watchpic{
@@ -496,21 +496,21 @@ nav .navlistdesktop li a{
     height: 580px;
     background-size: 1262px 580px;
     background-repeat: no-repeat;
-    background-image: url(/old/watchlarge.jpg);
+    background-image: url(old/watchlarge.jpg);
 }
 .watch8pic{
     width: 1262px;
     height: 580px;
     background-size: 1262px 580px;
     background-repeat: no-repeat;
-    background-image: url(/old/watch8large.jpg);
+    background-image: url(old/watch8large.jpg);
 }
 .maclogo{
     width: 191px;
     height: 31px;
     background-size: 191px 31px;
     background-repeat: no-repeat;
-    background-image: url(/old/logo_promo_macbookair.png);
+    background-image: url(old/logo_promo_macbookair.png);
     background-position: center;
 }
 .macpiclarge{
@@ -518,7 +518,7 @@ nav .navlistdesktop li a{
     height: 580px;
     background-size: 1262px 580px;
     background-repeat: no-repeat;
-    background-image: url(/old/macbookairlarge.png);
+    background-image: url(old/macbookairlarge.png);
 
 }
 .airpodlarge{
@@ -526,7 +526,7 @@ nav .navlistdesktop li a{
     height: 580px;
     background-size: 1262px 580px;
     background-repeat: no-repeat;
-    background-image: url(/old/airpods.jpg);
+    background-image: url(old/airpods.jpg);
 }
 
 
